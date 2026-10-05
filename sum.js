@@ -1,5 +1,5 @@
-const sum = (a, b) =>{
+const sum = (a, b, c) =>{
     return a+b
 }
 
-sum(3,5)
+sum(3,5,9)
